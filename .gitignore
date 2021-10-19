@@ -1,0 +1,7 @@
+# Ignore all the files
+*
+
+# Except these files
+!.gitignore
+!index.php
+!README.md
